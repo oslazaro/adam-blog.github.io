@@ -4,8 +4,8 @@
 
 ## Demo
 
-Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
-
+//Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
+Check the theme in action [Demo](https://oslazaro.github.io/adam-blog.github.io/)
 The main page would look like this:
 
 ![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
